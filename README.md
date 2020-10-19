@@ -21,4 +21,4 @@ None
 
 ### Lessons Learned:
 
-Copyright by you
+Copyright by Schmid.
