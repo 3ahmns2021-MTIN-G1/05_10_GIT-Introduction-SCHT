@@ -13,3 +13,5 @@ git config --global user.name "Name"
 
 git push			-> Ladet meine Commits in die Cloud (GitHub)
 git pull			-> ladet meine Commits aus der Cloud ins lokale repos
+
+// Ein Kommentar
